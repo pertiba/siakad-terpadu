@@ -32,7 +32,7 @@
 		<script src="<?php echo base_url("assets/dist/js/app.min.js"); ?>"></script>
 		<script src="<?php echo base_url("assets/dist/js/jquery.tableCheckbox.js"); ?>"></script>
 		<script src="<?php echo base_url("assets/dist/js/jquery.printPage.js"); ?>"></script>
-		<script src="<?php echo base_url("assets/plugins/bootstrap-notify/bootstrap-notify.min.js"); ?>"></script>
+		<script src="<?php echo base_url("assets/plugins/bnotify/bootstrap-notify.min.js"); ?>"></script>
 		<script type="text/javascript"> 
 			var base_url 	= '<?php echo site_url('mahasiswa'); ?>';
 			var base_path 	= '<?php echo base_url('assets'); ?>';
